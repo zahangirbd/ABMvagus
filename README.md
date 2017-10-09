@@ -3,7 +3,7 @@
 Pre-requisite
 =============
 1. It requires 64bit operating system.
-2. It requires Java 1.7 or upper version to be installed into the machine.
+2. It requires Java 1.8 or upper version to be installed into the machine.
 3. It requires 8GB RAM which will be available into the machine.
 
 How to Run
